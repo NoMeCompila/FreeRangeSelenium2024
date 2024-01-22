@@ -8,4 +8,3 @@
  */
 
 rootProject.name = 'SeleniumProject2024'
-include('app')
